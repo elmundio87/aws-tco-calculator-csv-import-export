@@ -15,4 +15,4 @@ The Servers and Storage tables both have 2 extra buttons.
 
 * "Import CSV" will re-populate the calculator from the data in a local CSV file. This can either be a set of previously exported data, or a hand-crafted file.
 
-![Two extra buttons](https://github.com/elmundio87/aws-tco-calculator-csv-import-export/preview.png "Preview")
+![Two extra buttons](https://github.com/elmundio87/aws-tco-calculator-csv-import-export/blob/master/preview.png "Preview")
