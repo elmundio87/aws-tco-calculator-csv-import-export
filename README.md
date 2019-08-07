@@ -4,8 +4,9 @@ This script allows you to export the Server and Storage tables from the AWS TCO 
 
 ## Installation
 
-Firefox: Install the Greasemonkey extension and import userscript.js
-Chrome: Install the Tampermonkey extension and import userscript.jsa
+**Firefox:** Install the Greasemonkey extension and import userscript.js
+
+**Chrome:** Install the Tampermonkey extension and import userscript.js
 
 ## Usage
 
