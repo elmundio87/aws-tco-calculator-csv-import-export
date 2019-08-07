@@ -1,6 +1,6 @@
 # AWS TCO Calculator CSV Import/Export
 
-This script allows you to export the Server and Storage tables from the AWS TCO calculator as CSV files, so that they can be re-imported later.
+This script allows you to export the Server and Storage tables from the [AWS TCO calculator](https://awstcocalculator.com/#) as CSV files, so that they can be re-imported later.
 
 ## Installation
 
